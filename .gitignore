@@ -1,5 +1,6 @@
 *.png
-*.html
 *.log
 __pycache__
 *.xml
+log.html
+report.html
